@@ -797,7 +797,7 @@ U 1 1 5D8119FB
 P 5350 2200
 F 0 "H3" H 5450 2246 50  0000 L CNN
 F 1 "MountingHole" H 5450 2155 50  0000 L CNN
-F 2 "MountingHole:MountingHole_2.5mm" H 5350 2200 50  0001 C CNN
+F 2 "Smart_eNERF_Gun:Mount_2.5mm" H 5350 2200 50  0001 C CNN
 F 3 "~" H 5350 2200 50  0001 C CNN
 	1    5350 2200
 	1    0    0    -1  
@@ -808,7 +808,7 @@ U 1 1 5D8129C3
 P 5350 1700
 F 0 "H2" H 5450 1746 50  0000 L CNN
 F 1 "MountingHole" H 5450 1655 50  0000 L CNN
-F 2 "MountingHole:MountingHole_2.5mm" H 5350 1700 50  0001 C CNN
+F 2 "Smart_eNERF_Gun:Mount_2.5mm" H 5350 1700 50  0001 C CNN
 F 3 "~" H 5350 1700 50  0001 C CNN
 	1    5350 1700
 	1    0    0    -1  
@@ -819,7 +819,7 @@ U 1 1 5D812EE0
 P 5350 1200
 F 0 "H1" H 5450 1246 50  0000 L CNN
 F 1 "MountingHole" H 5450 1155 50  0000 L CNN
-F 2 "MountingHole:MountingHole_2.5mm" H 5350 1200 50  0001 C CNN
+F 2 "Smart_eNERF_Gun:Mount_2.5mm" H 5350 1200 50  0001 C CNN
 F 3 "~" H 5350 1200 50  0001 C CNN
 	1    5350 1200
 	1    0    0    -1  
