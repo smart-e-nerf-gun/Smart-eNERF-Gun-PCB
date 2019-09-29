@@ -1,9 +1,9 @@
-(module Mount_2.5mm (layer F.Cu) (tedit 5D8B5BFE)
+(module Mount_2.5mm (layer F.Cu) (tedit 5D9066C4)
   (fp_text reference REF** (at 0 2.286) (layer F.SilkS) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_text value Mount_2.5mm (at 0 -2.286) (layer F.Fab) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (pad M thru_hole circle (at 0 0) (size 3.507999 3.507999) (drill 2.5) (layers *.Cu *.Mask))
+  (pad M thru_hole circle (at 0 0) (size 3.761999 3.761999) (drill 2.5) (layers *.Cu *.Mask))
 )

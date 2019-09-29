@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name Smart_eNERF_Gun)(type Legacy)(uri ${KIPRJMOD}/Libraries/Smart_eNERF_Gun.lib)(options "")(descr ""))
+  (lib (name Smart_eNERF_Gun-rescue)(type Legacy)(uri ${KIPRJMOD}/Smart_eNERF_Gun-rescue.lib)(options "")(descr ""))
 )
